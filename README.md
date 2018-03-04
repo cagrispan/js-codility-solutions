@@ -1,88 +1,89 @@
 # js-codility-solutions
 Codility Solutions in Javascript
 
-Lesson 1 - Iterations
+### Lesson 1 - Iterations
 1. <a href="https://app.codility.com/demo/results/training78W4GJ-7G2/" target="_blank">BinaryGap</a>
 
-Lesson 2 - Arrays
+### Lesson 2 - Arrays
 1. <a href="https://app.codility.com/demo/results/trainingPDSG89-XAM/" target="_blank">OddOccurrencesInArray</a>
 1. <a href="https://app.codility.com/demo/results/trainingHAX3NV-DT8/" target="_blank">CyclicRotation</a>
 
-Lesson 3 - Time Complexity
+### Lesson 3 - Time Complexity
 1. <a href="https://app.codility.com/demo/results/training48K37C-A6C/" target="_blank">TapeEquilibrum</a>
 1. <a href="https://app.codility.com/demo/results/trainingTUGUJ6-V6G/" target="_blank">FrogJmp</a>
 1. <a href="https://app.codility.com/demo/results/trainingKM7PRD-ARG/" target="_blank">PermMissingElem</a>
 
-Lesson 4 - Couting Elements
+### Lesson 4 - Couting Elements
 1. <a href="https://app.codility.com/demo/results/training6YKEWV-AZH/" target="_blank">PermCheck</a>
 1. <a href="https://app.codility.com/demo/results/trainingQWFH3Z-YN4/" target="_blank">FrogRiverOne</a>
 1. <a href="https://app.codility.com/demo/results/training6R83MK-K9Z/" target="_blank">MissingInteger</a>
 1. <a href="https://app.codility.com/demo/results/trainingDD6PCQ-PE9/" target="_blank">MaxCounters</a>
 
-<!-- Lesson 5 - Prefix Sums
-1. <a href="" target="_blank">CountDiv</a>
-1. <a href="" target="_blank">PassingCars</a>
-1. <a href="" target="_blank">GenomicRangeQuery</a>
-1. <a href="" target="_blank">MinAvgTwoSlice</a>
+### Lesson 5 - Prefix Sums
+1. <a href="https://app.codility.com/demo/results/trainingSX8BQZ-F5W/" target="_blank">CountDiv</a>
+1. <a href="https://app.codility.com/demo/results/training73MMKG-5WG/" target="_blank">PassingCars</a>
+1. <a href="https://app.codility.com/demo/results/trainingXATY5D-Y2V/" target="_blank">MinAvgTwoSlice</a>
+1. <a href="https://app.codility.com/demo/results/trainingG5WU4J-BQM/" target="_blank">GenomicRangeQuery</a>
 
-Lesson 6 - Sorting
-1. <a href="" target="_blank">Triangle</a>
-1. <a href="" target="_blank">Distinct</a>
-1. <a href="" target="_blank">MaxProductOfThree</a>
-1. <a href="" target="_blank">NumberOfDiscIntersections</a>
+### Lesson 6 - Sorting
+1. <a href="https://app.codility.com/demo/results/trainingQXFCFK-Q2F/" target="_blank">Distinct</a>
+1. <a href="https://app.codility.com/demo/results/trainingN3X39U-2EY/" target="_blank">Triangle</a>
+1. <a href="https://app.codility.com/demo/results/trainingHKHREF-RGX/" target="_blank">MaxProductOfThree</a>
+1. <a href="https://app.codility.com/demo/results/training49S423-727/" target="_blank">NumberOfDiscIntersections</a>
+<!--
 
-Lesson 7 - Stacks and Queues
+### Lesson 7 - Stacks and Queues
 1. <a href="" target="_blank">Brackets</a>
 1. <a href="" target="_blank">Fish</a>
 1. <a href="" target="_blank">StoneWall</a>
 1. <a href="" target="_blank">Nesting</a>
 
-Lesson 8 - Leader
+### Lesson 8 - Leader
 1. <a href="" target="_blank">EquiLeader</a>
 1. <a href="" target="_blank">Dominator</a>
 
-Lesson 9 - Maximum slice problem
+### Lesson 9 - Maximum slice problem
 1. <a href="" target="_blank">MaxDoubleSliceSum</a>
 1. <a href="" target="_blank">MaxProfit</a>
 1. <a href="" target="_blank">MaxSliceSum</a>
 
-Lesson 10 - Prime and composite numbers
+### Lesson 10 - Prime and composite numbers
 1. <a href="" target="_blank">MinPerimeterRectangle</a>
 1. <a href="" target="_blank">CountFactors</a>
 1. <a href="" target="_blank">Flags</a>
 1. <a href="" target="_blank">Peaks</a>
 
-Lesson 11 - Sieve of Eratosthenes
+### Lesson 11 - Sieve of Eratosthenes
 1. <a href="" target="_blank">CountSemiprimes</a>
 1. <a href="" target="_blank">CountNonDivisible</a>
 
-Lesson 12 - Euclidean algorithm
+### Lesson 12 - Euclidean algorithm
 1. <a href="" target="_blank">ChocolatesByNumber</a>
 1. <a href="" target="_blank">CommonPrimeDivisors</a>
 
-Lesson 13 - Fibonacci numbers
+### Lesson 13 - Fibonacci numbers
 1. <a href="" target="_blank">FibFrog</a>
 1. <a href="" target="_blank">Ladder</a>
 
-Lesson 14 - Binary search algorithm
+### Lesson 14 - Binary search algorithm
 1. <a href="" target="_blank">MinMaxDivision</a>
 1. <a href="" target="_blank">NailingPlanks</a>
 
-Lesson 15 - Caterpillar method
+### Lesson 15 - Caterpillar method
 1. <a href="" target="_blank">AbsDistinct</a>
 1. <a href="" target="_blank">CountDistinctSlices</a>
 1. <a href="" target="_blank">CountTriangles</a>
 1. <a href="" target="_blank">MinAbsSumOfTwo</a>
 
-Lesson 16 - Greedy algorithms
+### Lesson 16 - Greedy algorithms
 1. <a href="" target="_blank">MaxNonoverlappingSegments</a>
 1. <a href="" target="_blank">TieRopes</a>
 
-Lesson 17 - Dynamic programming
+### Lesson 17 - Dynamic programming
 1. <a href="" target="_blank">NumberSolitaire</a>
 1. <a href="" target="_blank">MinAbsSum</a>
 
-Lesson 99 - Future training
+### Lesson 99 - Future training
 1. <a href="" target="_blank">StrSymmetryPoint</a>
 1. <a href="" target="_blank">TreeHeight</a>
 1. <a href="" target="_blank">ArrayInversionCount</a>
