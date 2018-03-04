@@ -1,4 +1,4 @@
-# Codility Solutions in Javascript 
+# Codility Solutions in Javascript
 [**_js-codility-solutions_**](https://github.com/cagrispan/js-codility-solutions)
 
 
@@ -11,26 +11,26 @@
 ---
 ### Lesson 3 - Time Complexity
 1. [TapeEquilibrum](https://app.codility.com/demo/results/training48K37C-A6C/) _[100%]_ `PAINLESS`
-1. [FrogJmp]("https://app.codility.com/demo/results/trainingTUGUJ6-V6G/) _[100%]_ `PAINLESS`
-1. [PermMissingElem]("https://app.codility.com/demo/results/trainingKM7PRD-ARG/) _[100%]_ `PAINLESS`
+1. [FrogJmp](https://app.codility.com/demo/results/trainingTUGUJ6-V6G/) _[100%]_ `PAINLESS`
+1. [PermMissingElem](https://app.codility.com/demo/results/trainingKM7PRD-ARG/) _[100%]_ `PAINLESS`
 ---
 ### Lesson 4 - Couting Elements
-1. [PermCheck]("https://app.codility.com/demo/results/training6YKEWV-AZH/) _[100%]_ `PAINLESS`
-1. [FrogRiverOne]("https://app.codility.com/demo/results/trainingQWFH3Z-YN4/) _[100%]_ `PAINLESS`
-1. [MissingInteger]("https://app.codility.com/demo/results/training6R83MK-K9Z/) _[100%]_ `PAINLESS`
-1. [MaxCounters]("https://app.codility.com/demo/results/trainingDD6PCQ-PE9/) _[100%]_ `RESPECTABLE`
+1. [PermCheck](https://app.codility.com/demo/results/training6YKEWV-AZH/) _[100%]_ `PAINLESS`
+1. [FrogRiverOne](https://app.codility.com/demo/results/trainingQWFH3Z-YN4/) _[100%]_ `PAINLESS`
+1. [MissingInteger](https://app.codility.com/demo/results/training6R83MK-K9Z/) _[100%]_ `PAINLESS`
+1. [MaxCounters](https://app.codility.com/demo/results/trainingDD6PCQ-PE9/) _[100%]_ `RESPECTABLE`
 ---
 ### Lesson 5 - Prefix Sums
-1. [CountDiv]("https://app.codility.com/demo/results/trainingSX8BQZ-F5W/) _[100%]_ `PAINLESS`
-1. [PassingCars]("https://app.codility.com/demo/results/training73MMKG-5WG/) _[100%]_ `PAINLESS`
-1. [MinAvgTwoSlice]("https://app.codility.com/demo/results/trainingXATY5D-Y2V/) _[100%]_ `RESPECTABLE`
-1. [GenomicRangeQuery]("https://app.codility.com/demo/results/trainingG5WU4J-BQM/) _[100%]_ `RESPECTABLE`
+1. [CountDiv](https://app.codility.com/demo/results/trainingSX8BQZ-F5W/) _[100%]_ `PAINLESS`
+1. [PassingCars](https://app.codility.com/demo/results/training73MMKG-5WG/) _[100%]_ `PAINLESS`
+1. [MinAvgTwoSlice](https://app.codility.com/demo/results/trainingXATY5D-Y2V/) _[100%]_ `RESPECTABLE`
+1. [GenomicRangeQuery](https://app.codility.com/demo/results/trainingG5WU4J-BQM/) _[100%]_ `RESPECTABLE`
 ---
 ### Lesson 6 - Sorting
-1. [Distinct]("https://app.codility.com/demo/results/trainingQXFCFK-Q2F/) _[100%]_ `PAINLESS`
-1. [Triangle]("https://app.codility.com/demo/results/trainingN3X39U-2EY/) _[100%]_ `PAINLESS`
-1. [MaxProductOfThree]("https://app.codility.com/demo/results/trainingHKHREF-RGX/) _[100%]_ `PAINLESS`
-1. [NumberOfDiscIntersections]("https://app.codility.com/demo/results/training49S423-727/) _[100%]_ `RESPECTABLE`
+1. [Distinct](https://app.codility.com/demo/results/trainingQXFCFK-Q2F/) _[100%]_ `PAINLESS`
+1. [Triangle](https://app.codility.com/demo/results/trainingN3X39U-2EY/) _[100%]_ `PAINLESS`
+1. [MaxProductOfThree](https://app.codility.com/demo/results/trainingHKHREF-RGX/) _[100%]_ `PAINLESS`
+1. [NumberOfDiscIntersections](https://app.codility.com/demo/results/training49S423-727/) _[100%]_ `RESPECTABLE`
 
 <!-- ### Lesson 7 - Stacks and Queues
 1. [Brackets]() _[100%]_
